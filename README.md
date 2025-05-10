@@ -9,24 +9,36 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
 
 ###
 
-<h3 align="left">💻 Tecnologías y herramientas [En aprendizaje]</h3>
+<h3 align="left">💻 Tecnologías y herramientas (en progreso) </h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+<strong>
+  <p>Backend:
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+  </p>
+
+  <p>Frontend:
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+  </p>
+  
+  <p>Base de datos:
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+  </p>
+
+  <p>Control de versiones:
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+  </p>
+
+  <p>Herramientas:
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
+    <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"/>
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
+  </p>
+</strong>
 </div>
 
 <hr>
@@ -47,8 +59,7 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
 <img 
   align="right"
   height="335"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"  
-  style="border-radius: 15px; border: 1px solid white;"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"
 />
 
 
@@ -56,26 +67,19 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
   <img
   src="https://github-readme-stats.vercel.app/api?username=andypr97vlc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=es&hide_border=true&order=1" 
   height="148"
-  style="border-radius: 15px; border: 1px solid white;"
   alt="stats graph"/>
 
   <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=andypr97vlc&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2"
   height="183"
-  style="border-radius: 15px; border: 1px solid white;"
   alt="languages graph"/>
 
   <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=andypr97vlc&radius=0&theme=react&area=true&order=5&hide_border=true"
   height="300"
-  style="border-radius: 15px; border: 1px solid white;"
   alt="activity-graph graph"/>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andypr97vlc/andypr97vlc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andypr97vlc/andypr97vlc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andypr97vlc/andypr97vlc/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/andypr97vlc/andypr97vlc/output/snake.svg" alt="Snake animation" />
