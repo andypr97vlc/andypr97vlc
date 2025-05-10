@@ -1,16 +1,32 @@
-<h1 align="center">Hola 👋, me llamo Andy</h1>
-<h3 align="center">Estudiante de DAM en IES Jaume II el Just</h3>
+<h2 align="left">¡Hola 👋, me llamo Andy!</h2>
 
+###
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">Estudiante de DAM en IES Jaume II el Just</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andypr97vlc&show_icons=true&theme=dark&locale=es&layout=compact" alt="andypr97vlc" /></p>
+###
 
+<h3 align="left">💻 Tecnologías y herramientas</h3>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andypr97vlc&theme=dark" alt="andypr97vlc" /></p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andypr97vlc&show_icons=true&theme=dark&locale=es" alt="andypr97vlc" /></p>
+<div align="left">
+</div>
 
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"  />
+
+###
