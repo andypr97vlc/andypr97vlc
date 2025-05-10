@@ -44,15 +44,32 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
 
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 
-<img align="right" height="335" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"  />
+<img 
+  align="right"
+  height="335"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"  
+  style="border-radius: 15px; border: 1px solid white;"
+/>
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andypr97vlc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=andypr97vlc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=es&hide_border=true&order=1" 
+  height="148"
+  style="border-radius: 15px; border: 1px solid white;"
+  alt="stats graph"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andypr97vlc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="183" alt="languages graph"  />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=andypr97vlc&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&radius=50&theme=react&hide_border=true&order=2"
+  height="183"
+  style="border-radius: 15px; border: 1px solid white;"
+  alt="languages graph"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andypr97vlc&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=andypr97vlc&radius=0&theme=react&area=true&order=5&hide_border=true"
+  height="300"
+  style="border-radius: 15px; border: 1px solid white;"
+  alt="activity-graph graph"/>
 </div>
 
 ###
