@@ -35,19 +35,16 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
 
 <h3 align="left">📬 Contacto</h3>
 <li>
-  📩 Email: andypr97vlc@gmail.com
+  📩 <strong>Email:</strong> <a href="mailto:andypr97vlc@gmail.com">andypr97vlc@gmail.com</a>
 </li>
 
-
 <hr>
-
 
 ###
 
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 
-
-<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"  />
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"  />
 
 
 <div align="left">
