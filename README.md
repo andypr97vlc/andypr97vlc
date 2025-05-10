@@ -60,7 +60,7 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
   alt="stats graph"/>
 
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=andypr97vlc&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&radius=50&theme=react&hide_border=true&order=2"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=andypr97vlc&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2"
   height="183"
   style="border-radius: 15px; border: 1px solid white;"
   alt="languages graph"/>
