@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Multiplataforma (DAM)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso, con la idea de construir un portafolio para el futuro. 🌱</p>
+Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Multiplataforma (DAM)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso. 🌱</p>
 
 <hr>
 
