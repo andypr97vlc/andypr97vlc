@@ -15,6 +15,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: generate pacman-contribution-graph.svg
