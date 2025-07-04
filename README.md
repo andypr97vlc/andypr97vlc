@@ -1,16 +1,20 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif" width="35%" align="right" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=serif&weight=500&size=50&duration=4000&pause=300&color=5FD5F5&center=true&multiline=true&repeat=false&width=1200&height=140&lines=!Hola%2C+me+llamo+Andy!;Me+gustan+los+ping%C3%BCinos+y+me+quiero+morir+%E2%98%86" alt="Typing SVG" width="60%"/></a>
+<img src="./assets/vertical penguin.jpg" width="25%" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=5FD5F5FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=!Hola%2C+me+llamo+Andy!;Me+gustan+los+ping%C3%BCinos+y+me+quiero+morir+%E2%98%86" alt="Typing SVG" width="70%"/></a>
 <br><br>
 <pre>
+    •••••
     ¡Bienvenidos a mi repositorio personal de aprendizaje en 
     Desarrollo de Aplicaciones Multiplataforma (DAM)! 
     Este espacio está creado para documentar mi progreso, 
     proyectos y prácticas a lo largo del curso. 🌱
+    •••••
 </pre>
 <br><br>
-</div>
+<img src="./assets/amaterasu running no grass.gif" height="40" />
 <br><br><br>
+
+</div>
 <!-- <h3 align="left">💻 Tecnologías y herramientas</h3>
 
 <div align="left">
@@ -46,13 +50,6 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
     alt="languages graph"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ComfyPenguin&theme=react&no-frame=false&no-bg=true&margin-w=4&locale=es"
-    alt="trophies graph"
   />
 </div>
 
