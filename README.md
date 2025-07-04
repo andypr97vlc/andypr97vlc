@@ -1,6 +1,5 @@
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; max-width: 100%;">
   <div style="flex: 1; min-width: 250px;">
-    <a href="https://git.io/typing-svg">
       <img 
         src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=3000&pause=1000&color=5fd5f5&repeat=false&width=400&lines=%C2%A1Hola+%F0%9F%91%8B%2C+me+llamo+Andy!" 
         alt="Typing SVG" 
@@ -19,7 +18,7 @@
   />
 </div>
 
-<hr
+<hr>
 
 <h3 align="left">💻 Tecnologías y herramientas (en progreso)</h3>
 
