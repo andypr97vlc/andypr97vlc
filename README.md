@@ -10,7 +10,7 @@
     proyectos y prácticas a lo largo del curso. 🌱
     •••••
 </pre>
-<br><br>
+<br>
 <img src="assets/amaterasu running no grass.gif" width="150" />
 <br><br>
 </div>
