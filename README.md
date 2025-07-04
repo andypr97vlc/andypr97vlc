@@ -11,7 +11,7 @@
     •••••
 </pre>
 <br>
-<img src="assets/amaterasu running no grass.gif" width="150" />
+<img src="assets/amaterasu running no grass.gif" width="170" />
 <br><br>
 </div>
 <hr>
