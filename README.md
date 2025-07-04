@@ -11,48 +11,30 @@
     •••••
 </pre>
 <br><br>
-<img src="assets/amaterasu running no grass.gif" height="40" />
+<img src="assets/amaterasu running no grass.gif" height="50" />
 <br><br><br>
-
 </div>
-<!-- <h3 align="left">💻 Tecnologías y herramientas</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
-</div>
-<h3 align="left">📊 Estadísticas de GitHub</h3> -->
+<hr>
 
-<!-- Primera fila -->
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
     alt="stats graph"
-  />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=ComfyPenguin&theme=react&hide_border=true&locale=es"
-    alt="streak graph"
-  />
-</div>
-
-<!-- Segunda fila -->
-<div align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=ComfyPenguin&limit=3&hide_border=true&theme=react&combine_all_yearly_contributions=true&locale=es"
-    alt="contribution graph"
+    width="53%"
+    height="60%"
+    align="left"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
     alt="languages graph"
+    width="40%"
+    height="40%"
+    align="right"
   />
 </div>
 
+<br><br><br><br><br><br><br><br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph-dark.svg">
