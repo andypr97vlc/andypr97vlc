@@ -48,7 +48,7 @@ Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicacion
 
 <img 
   align="right"
-  height="335"
+  height="330"
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif"
 />
 
