@@ -17,7 +17,7 @@
 
 <hr>
 
-<h3 align="left">💻 Tecnologías y herramientas</h3>
+<h2 align="left">💻 Tecnologías y herramientas</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
@@ -34,14 +34,14 @@
 
 ###
 
-<h3 align="left">📬 Contacto</h3>
+<h2 align="left">📬 Contacto</h2>
 <a href="mailto:andypr97vlc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email logo" /></a>
 
 <hr>
 
 ###
 
-<h3 align="left">📊 Estadísticas de GitHub</h3>
+<h2 align="left">📊 Estadísticas de GitHub</h2>
 
 <!-- Primera fila -->
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom: 10px; justify-content: center;">
