@@ -1,29 +1,26 @@
-<div align="center">
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; max-width: 100%;">
-  <div style="flex: 1; min-width: 250px;">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=3000&pause=1000&color=5fd5f5&repeat=false&width=400&lines=%C2%A1Hola+%F0%9F%91%8B%2C+me+llamo+Andy!" 
-        alt="Typing SVG" 
-        style="max-width: 100%; height: auto; align: right" 
-      />
-    </a>
-    <p>
-      ¡Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Multiplataforma (DAM)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso. 🌱
-    </p>
-  </div>
 
+<div align="left">
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif" 
-    alt="GIF animado"
-    style="max-width: 300px; height: auto; border-radius: 8px;"
+    alt="GIF animated"
+    width="30%"
+    align="right"
   />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=3000&pause=1000&color=5fd5f5&repeat=false&width=400&lines=%C2%A1Hola+%F0%9F%91%8B%2C+me+llamo+Andy!" 
+    alt="Typing SVG" 
+    width="60%"
+  />
+  <p>
+    ¡Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Multiplataforma (DAM)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso. 🌱
+  </p>
 </div>
 
 <hr>
 
 <h3 align="left">💻 Tecnologías y herramientas (en progreso)</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
@@ -100,5 +97,4 @@
     src="https://komarev.com/ghpvc/?username=ComfyPenguin&style=flat&color=5fd5f5&label=Visitantes&abbreviated=true" 
     alt="visit counter" 
   />
-</div>
 </div>
