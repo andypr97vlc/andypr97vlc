@@ -25,6 +25,7 @@
     height="40%"
     align="left"
   />
+  <br><br><br><br><br><br><br><br><br><br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
     alt="stats graph"
