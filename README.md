@@ -2,13 +2,13 @@
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1tc21ta3czMThzYTd6Z3F5NDdyaHRkdTN5dzJwbTY4ZXZ2Z2N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZEHIqyl6L0uIxpkUj/giphy.gif" 
     alt="GIF animated"
-    width="52%"
+    width="40%"
     align="right"
   />
   <img 
     src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=3000&pause=1000&color=5fd5f5&repeat=false&width=400&lines=%C2%A1Hola+%F0%9F%91%8B%2C+me+llamo+Andy!" 
     alt="Typing SVG" 
-    width="47%"
+    width="45%"
   />
   <p>
     ¡Bienvenidos a mi repositorio personal de aprendizaje en Desarrollo de Aplicaciones Multiplataforma (DAM)! Este espacio está creado para documentar mi progreso, proyectos y prácticas a lo largo del curso. 🌱
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="left">💻 Tecnologías y herramientas</h2>
+<h3 align="left">💻 Tecnologías y herramientas</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
@@ -34,14 +34,14 @@
 
 ###
 
-<h2 align="left">📬 Contacto</h2>
+<h3 align="left">📬 Contacto</h3>
 <a href="mailto:andypr97vlc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email logo" /></a>
 
 <hr>
 
 ###
 
-<h2 align="left">📊 Estadísticas de GitHub</h2>
+<h3 align="left">📊 Estadísticas de GitHub</h3>
 
 <!-- Primera fila -->
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom: 10px; justify-content: center;">
