@@ -14,27 +14,20 @@
 <img src="assets/amaterasu running no grass.gif" height="50" />
 <br><br>
 </div>
-
 <hr>
-
-<div align="center">
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
-    alt="languages graph"
-    width="42%"
-    height="40%"
-    align="left"
-  />
-  <br><br><br><br><br><br><br><br><br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
-    alt="stats graph"
-    width="55%"
-    height="60%"
-    align="right"
-  />
-</div>
-<br><br><br><br><br><br><br><br><br><br>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
+  alt="languages graph"
+  width="42%"
+  align="left"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
+  alt="stats graph"
+  width="55%"
+  align="right"
+/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph.svg">
