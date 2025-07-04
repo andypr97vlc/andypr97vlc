@@ -14,7 +14,7 @@
 <img src="assets/amaterasu running no grass.gif" height="50" />
 <br><br>
 </div>
-<hr>
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
   alt="languages graph"
