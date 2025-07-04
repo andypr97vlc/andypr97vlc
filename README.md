@@ -21,20 +21,19 @@
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
     alt="languages graph"
-    width="43%"
+    width="42%"
     height="40%"
     align="left"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
     alt="stats graph"
-    width="56%"
+    width="55%"
     height="60%"
     align="right"
   />
-  
 </div>
-
+<br><br><br><br><br><br><br><br><br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph.svg">
