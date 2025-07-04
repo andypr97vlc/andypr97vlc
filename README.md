@@ -1,9 +1,10 @@
+<div align="center">
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; max-width: 100%;">
   <div style="flex: 1; min-width: 250px;">
       <img 
         src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=3000&pause=1000&color=5fd5f5&repeat=false&width=400&lines=%C2%A1Hola+%F0%9F%91%8B%2C+me+llamo+Andy!" 
         alt="Typing SVG" 
-        style="align: center; max-width: 100%; height: auto;" 
+        style="max-width: 100%; height: auto; align: right" 
       />
     </a>
     <p>
@@ -22,7 +23,7 @@
 
 <h3 align="left">💻 Tecnologías y herramientas (en progreso)</h3>
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
@@ -47,7 +48,7 @@
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 
 <!-- Primera fila -->
-<div style="align: center; display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom: 10px; justify-content: center;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
     alt="stats graph"
@@ -61,7 +62,7 @@
 </div>
 
 <!-- Segunda fila -->
-<div style="align: center; display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 10px; margin-bottom: 10px; justify-content: center;">
   <img
     src="https://github-contributor-stats.vercel.app/api?username=ComfyPenguin&limit=3&hide_border=true&theme=react&combine_all_yearly_contributions=true&locale=es"
     alt="contribution graph"
@@ -74,7 +75,7 @@
   />
 </div>
 
-<div style="align: center; display: flex; justify-content: center; margin-bottom: 10px; width: 100%;">
+<div style="display: flex; justify-content: center; margin-bottom: 10px; width: 100%;">
   <img
     style="width: 98%; height: auto;"
     src="https://github-profile-trophy.vercel.app/?username=ComfyPenguin&theme=react&no-frame=false&no-bg=true&margin-w=4&locale=es"
@@ -82,7 +83,7 @@
   />
 </div>
 
-<div style="align: center; display: flex; justify-content: center; margin-bottom: 10px; width: 100%;">
+<div style="display: flex; justify-content: center; margin-bottom: 10px; width: 100%;">
   <picture
     style="width: 98%; height: auto;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph-dark.svg">
@@ -94,9 +95,10 @@
   </picture>
 </div>
 
-<div style="align: center; display: flex; justify-content: center; width: 100%;">
+<div style="display: flex; justify-content: center; width: 100%;">
   <img 
     src="https://komarev.com/ghpvc/?username=ComfyPenguin&style=flat&color=5fd5f5&label=Visitantes&abbreviated=true" 
     alt="visit counter" 
   />
+</div>
 </div>
