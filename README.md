@@ -12,12 +12,7 @@
 </pre>
 <br><br>
 <img src="assets/amaterasu running no grass.gif" height="50" />
-<br><br><br>
-<img 
-    src="https://komarev.com/ghpvc/?username=ComfyPenguin&style=flat&color=5fd5f5&label=Visitantes&abbreviated=true" 
-    alt="visit counter" 
-  />
-  <a href="mailto:andypr97vlc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email logo" /></a>
+<br><br>
 </div>
 
 <hr>
@@ -39,8 +34,6 @@
   />
   
 </div>
-
-<br><br><br><br><br><br><br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph-dark.svg">
