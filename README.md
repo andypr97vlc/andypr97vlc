@@ -8,10 +8,9 @@
     Este espacio está creado para documentar mi progreso, 
     proyectos y prácticas a lo largo del curso. 🌱
 </pre>
+<br><br>
 </div>
-
-<br>
-
+<br><br><br>
 <!-- <h3 align="left">💻 Tecnologías y herramientas</h3>
 
 <div align="left">
