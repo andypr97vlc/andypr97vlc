@@ -13,28 +13,34 @@
 <br><br>
 <img src="assets/amaterasu running no grass.gif" height="50" />
 <br><br><br>
+<img 
+    src="https://komarev.com/ghpvc/?username=ComfyPenguin&style=flat&color=5fd5f5&label=Visitantes&abbreviated=true" 
+    alt="visit counter" 
+  />
+  <a href="mailto:andypr97vlc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email logo" /></a>
 </div>
 
 <hr>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
-    alt="stats graph"
-    width="53%"
-    height="60%"
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
+    alt="languages graph"
+    width="43%"
+    height="40%"
     align="left"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComfyPenguin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es"
-    alt="languages graph"
-    width="40%"
-    height="40%"
+    src="https://github-readme-stats.vercel.app/api?username=ComfyPenguin&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=es"
+    alt="stats graph"
+    width="56%"
+    height="60%"
     align="right"
   />
+  
 </div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComfyPenguin/ComfyPenguin/output/pacman-contribution-graph-dark.svg">
